@@ -1,0 +1,58 @@
+{
+    "863f939a-bbe9-4724-afee-028b4b348f79": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "863f939a-bbe9-4724-afee-028b4b348f79",
+        "classification": "hostile"
+    },
+    "1441f02e-6b90-41e9-af41-aa8c5f4b7aa9": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "1441f02e-6b90-41e9-af41-aa8c5f4b7aa9",
+        "classification": "hostile"
+    },
+    "38875535-3489-495a-9121-296910838c04": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "38875535-3489-495a-9121-296910838c04",
+        "classification": "hostile"
+    },
+    "8279ec2f-8acb-4797-83be-c148fdb9c133": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "8279ec2f-8acb-4797-83be-c148fdb9c133",
+        "classification": "hostile"
+    },
+    "7a2736ec-2f5d-4804-9b8f-68e0c5a204fa": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "7a2736ec-2f5d-4804-9b8f-68e0c5a204fa",
+        "classification": "hostile"
+    },
+    "ca5023c4-a99a-4ced-b350-b2baee916576": {
+        "name": "Drone1",
+        "heading": 45.0,
+        "signal_strength": 85,
+        "timestamp": "2023-01-01T12:00:00",
+        "id": "ca5023c4-a99a-4ced-b350-b2baee916576",
+        "classification": "friendly"
+    },
+    "b33a7e82-328d-4e20-9808-a4fdbd3d9a13": {
+        "name": "22",
+        "heading": 2.0,
+        "signal_strength": 7,
+        "timestamp": "2025-07-13T18:55:50.080Z",
+        "id": "b33a7e82-328d-4e20-9808-a4fdbd3d9a13",
+        "classification": "friendly"
+    }
+}
